@@ -25,3 +25,7 @@ Product properties fields:
 
     .. literalinclude:: examples/product_model.csv
 
+
+.. note::
+
+ To import a Product Model with variations you should import first a Product Model before importing the variations as :doc:`/import_and_export_data/product`
